@@ -39,9 +39,16 @@ Currently working toward an M.Sc. in Informatics at TUM, and open to backend / f
 
 ## 📊 GitHub stats
 
+## 📊 GitHub stats
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=abdurahmankrsk&show_icons=true&hide_border=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurahmankrsk&layout=compact&hide_border=true" height="165" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdurahmankrsk&theme=github_dark"
+       height="165"
+       alt="GitHub stats"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdurahmankrsk&theme=github_dark"
+       height="165"
+       alt="Top languages"/>
 </p>
 
 ## 🌱 Also
