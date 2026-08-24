@@ -8,8 +8,6 @@
 
 I'm a CS student at RAF (Union University, Belgrade) and Head of IT at **LogistIQ**, where I own the backend architecture for a contract & invoice management platform used by an international team of supply chain consultants. I like working close to the metal (kernels, concurrency) and close to the screen (3D/procedural graphics) — usually both in the same week.
 
-Currently working toward an M.Sc. in Informatics at TUM, and open to backend / full-stack roles in the meantime.
-
 ## 🔭 What I'm building
 
 - **AstroObservatory** — full-stack 3D astronomical visualization platform. Next.js/React/Three.js frontend with a GLSL procedural rendering engine for celestial objects, FastAPI backend pulling live NASA data, real-time pipelines, and client-side caching.
