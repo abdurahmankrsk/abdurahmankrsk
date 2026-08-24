@@ -15,9 +15,7 @@ Currently working toward an M.Sc. in Informatics at TUM, and open to backend / f
 - **AstroObservatory** — full-stack 3D astronomical visualization platform. Next.js/React/Three.js frontend with a GLSL procedural rendering engine for celestial objects, FastAPI backend pulling live NASA data, real-time pipelines, and client-side caching.
 - **xv6 Kernel Extensions** — added native threading (`clone`, `join`) and user-level mutexes to the MIT xv6 kernel, a process snapshot system for memory-state tracking and page diffing, and custom syscalls for filesystem diagnostics and terminal cursor control.
 - **Astronomical Observatory Management System** — Java Swing + MySQL/JDBC desktop app; 19-table schema tracking researchers, experiments, celestial objects, sessions, and equipment.
-- **LogistIQ backend** *(private — employer project)* — RBAC, an AI Copilot with parse-once document ingestion, virus-scanned uploads, and reproducible Python builds via pip-tools/uv.
-
-*(Turn the first three names above into links once you've pinned the repos below.)*
+- **LogistIQ Platform** *(private — employer project)* — RBAC, an AI Copilot with parse-once document ingestion, virus-scanned uploads, and reproducible Python builds via pip-tools/uv.
 
 ## 🧰 Stack
 
