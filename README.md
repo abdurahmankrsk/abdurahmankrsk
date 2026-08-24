@@ -33,18 +33,6 @@ I'm a CS student at RAF (Union University, Belgrade) and Head of IT at **LogistI
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-## 📊 GitHub stats
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdurahmankrsk&theme=github_dark"
-       height="165"
-       alt="GitHub stats"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdurahmankrsk&theme=github_dark"
-       height="165"
-       alt="Top languages"/>
-</p>
-
 ## 🌱 Also
 
 Security-minded — CTF challenges and self-built vulnerability labs. Contributor to [Millennium Dawn](https://github.com/MillenniumDawn/Millennium-Dawn), a large community-run HOI4 mod (scripted game systems and features across a big existing codebase, international team).
