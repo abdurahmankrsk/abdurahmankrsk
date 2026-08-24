@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Based%20in-Belgrade%2C%20Serbia-4B5563?style=flat" alt="Location"/>
 </p>
 
-I'm a CS student at RAF (Union University, Belgrade) and Head of IT at **LogistIQ**, where I own the backend architecture for a contract & invoice management platform used by an international team of supply chain consultants. I like working close to the metal (kernels, concurrency) and close to the screen (3D/procedural graphics) — usually both in the same week.
+I'm a CS student at RAF (Union University, Belgrade) and Head of IT at **LogistIQ**, where I own the backend architecture for a contract & invoice management platform used by an international team of supply chain consultants. I like working close to the metal (kernels, concurrency) and close to the screen (3D/procedural graphics), usually both in the same week.
 
 ## 🔭 What I'm building
 
