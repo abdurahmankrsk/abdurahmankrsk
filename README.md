@@ -6,14 +6,14 @@
 <img src="https://img.shields.io/badge/Based%20in-Belgrade%2C%20Serbia-4B5563?style=flat" alt="Location"/>
 </p>
 
-I'm a CS student at the School of Computing in Belgrade and Head of IT at **LogistIQ**, where I own the backend architecture for a contract & invoice management platform used by an international team of supply chain consultants. I like working close to the metal (kernels, concurrency) and close to the screen (3D/procedural graphics) — usually both in the same week.
+I'm a CS student at the School of Computing in Belgrade and Head of IT at **LogistIQ**, where I own the backend architecture for a contract & invoice management platform used by an international team of supply chain consultants.
 
 ## 🔭 What I'm building
 
-- **AstroObservatory** — full-stack 3D astronomical visualization platform. Next.js/React/Three.js frontend with a GLSL procedural rendering engine for celestial objects, FastAPI backend pulling live NASA data, real-time pipelines, and client-side caching.
+- **[AstroObservatory](https://github.com/abdurahmankrsk/Observatory-Platform)** — full-stack 3D astronomical visualization platform. Next.js/React/Three.js frontend with a GLSL procedural rendering engine for celestial objects, FastAPI backend pulling live NASA data, real-time pipelines, and client-side caching.
 - **[Saturn's Subtitle Tweaks (SST)](https://github.com/abdurahmankrsk/Saturn-s-Subtitle-Tweaks)** — Jellyfin plugin (C#/.NET 9) for in-player subtitle search, multi-language translation, and hash-matched results, with on-the-fly offset/sync. Published to the Jellyfin plugin catalog under MIT license, with a zero-credential security model.
-- **xv6 Kernel Extensions** — added native threading (`clone`, `join`) and user-level mutexes to the MIT xv6 kernel, a process snapshot system for memory-state tracking and page diffing, and custom syscalls for filesystem diagnostics and terminal cursor control.
-- **Astronomical Observatory Management System** — Java Swing + MySQL/JDBC desktop app; 19-table schema tracking researchers, experiments, celestial objects, sessions, and equipment.
+- **[xv6 Kernel Extensions](https://github.com/abdurahmankrsk/XV6-modifications)** — added native threading (`clone`, `join`) and user-level mutexes to the MIT xv6 kernel, a process snapshot system for memory-state tracking and page diffing, and custom syscalls for filesystem diagnostics and terminal cursor control.
+- **[Astronomical Observatory Management System](https://github.com/abdurahmankrsk/Astronomical-Observatory-Management-System)** — Java Swing + MySQL/JDBC desktop app; 19-table schema tracking researchers, experiments, celestial objects, sessions, and equipment.
 - **LogistIQ backend** *(private — employer project)* — RBAC, an AI Copilot with parse-once document ingestion, virus-scanned uploads, and reproducible Python builds via pip-tools/uv.
 
 ## 🧰 Stack
@@ -36,7 +36,6 @@ I'm a CS student at the School of Computing in Belgrade and Head of IT at **Logi
 
 ## 📊 GitHub stats
 
-<!-- Generated weekly by .github/workflows/stats.yml — static files committed to your repo, nothing live to go down. -->
 <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile details"/>
 
 <p align="left">
