@@ -16,8 +16,6 @@ I'm a CS student at the School of Computing in Belgrade and Head of IT at **Logi
 - **Astronomical Observatory Management System** — Java Swing + MySQL/JDBC desktop app; 19-table schema tracking researchers, experiments, celestial objects, sessions, and equipment.
 - **LogistIQ backend** *(private — employer project)* — RBAC, an AI Copilot with parse-once document ingestion, virus-scanned uploads, and reproducible Python builds via pip-tools/uv.
 
-*(Link AstroObservatory, xv6 Kernel Extensions, and Astronomical Observatory Management System to their repos once you've pinned them below.)*
-
 ## 🧰 Stack
 
 <p align="left">
