@@ -6,14 +6,19 @@
 <img src="https://img.shields.io/badge/Based%20in-Belgrade%2C%20Serbia-4B5563?style=flat" alt="Location"/>
 </p>
 
-I'm a CS student at the School of Computing in Belgrade and Head of IT at **LogistIQ**, where I own the backend architecture for a contract & invoice management platform used by an international team of supply chain consultants. I like working close to the metal (kernels, concurrency) and close to the screen (3D/procedural graphics), usually both in the same week.
+I'm a CS student at RAF (Union University, Belgrade) and Head of IT at **LogistIQ**, where I own the backend architecture for a contract & invoice management platform used by an international team of supply chain consultants. I like working close to the metal (kernels, concurrency) and close to the screen (3D/procedural graphics) — usually both in the same week.
+
+Currently working toward an M.Sc. in Informatics at TUM, and open to backend / full-stack roles in the meantime.
 
 ## 🔭 What I'm building
 
 - **AstroObservatory** — full-stack 3D astronomical visualization platform. Next.js/React/Three.js frontend with a GLSL procedural rendering engine for celestial objects, FastAPI backend pulling live NASA data, real-time pipelines, and client-side caching.
+- **[Saturn's Subtitle Tweaks (SST)](https://github.com/abdurahmankrsk/Saturn-s-Subtitle-Tweaks)** — Jellyfin plugin (C#/.NET 9) for in-player subtitle search, multi-language translation, and hash-matched results, with on-the-fly offset/sync. Published to the Jellyfin plugin catalog under MIT license, with a zero-credential security model.
 - **xv6 Kernel Extensions** — added native threading (`clone`, `join`) and user-level mutexes to the MIT xv6 kernel, a process snapshot system for memory-state tracking and page diffing, and custom syscalls for filesystem diagnostics and terminal cursor control.
 - **Astronomical Observatory Management System** — Java Swing + MySQL/JDBC desktop app; 19-table schema tracking researchers, experiments, celestial objects, sessions, and equipment.
-- **LogistIQ Platform** *(private — employer project)* — RBAC, an AI Copilot with parse-once document ingestion, virus-scanned uploads, and reproducible Python builds via pip-tools/uv.
+- **LogistIQ backend** *(private — employer project)* — RBAC, an AI Copilot with parse-once document ingestion, virus-scanned uploads, and reproducible Python builds via pip-tools/uv.
+
+*(Link AstroObservatory, xv6 Kernel Extensions, and Astronomical Observatory Management System to their repos once you've pinned them below.)*
 
 ## 🧰 Stack
 
@@ -31,6 +36,20 @@ I'm a CS student at the School of Computing in Belgrade and Head of IT at **Logi
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+## 📊 GitHub stats
+
+<!-- Generated weekly by .github/workflows/stats.yml — static files committed to your repo, nothing live to go down. -->
+<img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile details"/>
+
+<p align="left">
+<img src="profile-summary-card-output/github_dark/3-stats.svg" height="165" alt="GitHub stats"/>
+<img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" height="165" alt="Top languages by repo"/>
+</p>
+<p align="left">
+<img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" height="165" alt="Top languages by commit"/>
+<img src="profile-summary-card-output/github_dark/4-productive-time.svg" height="165" alt="Productive time"/>
 </p>
 
 ## 🌱 Also
