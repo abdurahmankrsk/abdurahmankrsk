@@ -1,0 +1,28 @@
+name: Update GitHub profile cards
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # weekly, Monday 06:00 UTC — plenty for a profile card
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Repo secret — a personal access token, NOT the default GITHUB_TOKEN.
+          # Fine-grained PAT -> Repository access: "Public repositories (read-only)".
+          # Kept to public repos on purpose: LogistIQ isn't yours to select here (fine-grained
+          # PATs can't target repos you're only a collaborator on), and reaching it via a
+          # classic PAT still depends on an org-level setting that may not be yours to grant.
+          # Simplest and cleanest: public-only. The pinned repos do the real work anyway.
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          THEME: "default"
+          AUTO_PUSH: true
