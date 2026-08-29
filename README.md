@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Based%20in-Belgrade%2C%20Serbia-4B5563?style=flat" alt="Location"/>
 </p>
 
-I'm a CS student at the School of Computing in Belgrade and Head of IT at **LogistIQ**, where I own the backend architecture for a contract & invoice management platform used by an international team of supply chain consultants. Open to backend / full-stack roles.
+I'm a CS student at the School of Computing in Belgrade and Head of IT at LogistIQ, where I lead a team of junior developers and work on the backend of an internal contract & invoice management and margin analysis platform for an international team of supply chain consultants. Open to backend / full-stack roles.
 
 ## 🔭 What I'm building
 
