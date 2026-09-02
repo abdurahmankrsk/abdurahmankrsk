@@ -10,6 +10,7 @@ I'm a CS student at the School of Computing in Belgrade and Head of IT at Logist
 
 ## 🔭 What I'm building
 
+- **[MailSentinel](https://github.com/abdurahmankrsk/MailSentinel)** — phishing detection web app that scores a raw email or URL from 0–100 and explains every signal that fired, so no verdict is a black box. Java 21 / Spring Boot backend with live SPF & DMARC resolution, punycode- and homoglyph-aware lookalike domain detection, and anchor-text vs. href link analysis; embedded React/Vite UI, Postgres + Flyway, Google ID-token auth verified server-side, and a Manifest V3 extension that scans messages in place in Gmail and Outlook.
 - **[AstroObservatory](https://github.com/abdurahmankrsk/Observatory-Platform)** — full-stack 3D astronomical visualization platform. Next.js/React/Three.js frontend with a GLSL procedural rendering engine for celestial objects, FastAPI backend pulling live NASA data, real-time pipelines, and client-side caching.
 - **[Saturn's Subtitle Tweaks (SST)](https://github.com/abdurahmankrsk/Saturn-s-Subtitle-Tweaks)** — Jellyfin plugin (C#/.NET 9) for in-player subtitle search, multi-language translation, and hash-matched results, with on-the-fly offset/sync. Published to the Jellyfin plugin catalog under MIT license, with a zero-credential security model.
 - **[xv6 Kernel Extensions](https://github.com/abdurahmankrsk/XV6-modifications)** — added native threading (`clone`, `join`) and user-level mutexes to the MIT xv6 kernel, a process snapshot system for memory-state tracking and page diffing, and custom syscalls for filesystem diagnostics and terminal cursor control.
@@ -30,6 +31,7 @@ I'm a CS student at the School of Computing in Belgrade and Head of IT at Logist
 <p align="left">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
