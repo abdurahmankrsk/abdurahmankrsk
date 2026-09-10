@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abdurahman Karišik 👋</h1>
-<h3 align="center">Backend & full-stack developer · systems programming · 3D graphics</h3>
+<h3 align="center">Backend & full-stack developer · systems programming</h3>
 
 <p align="center">
 <a href="mailto:abdurahman.karisik@gmail.com"><img src="https://img.shields.io/badge/Email-abdurahman.karisik%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
