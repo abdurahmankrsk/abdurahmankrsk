@@ -15,7 +15,7 @@ I'm a CS student at the School of Computing in Belgrade and Head of IT at Logist
 - **[Saturn's Subtitle Tweaks (SST)](https://github.com/abdurahmankrsk/Saturn-s-Subtitle-Tweaks)** — Jellyfin plugin (C#/.NET 9) for in-player subtitle search, multi-language translation, and hash-matched results, with on-the-fly offset/sync. Published to the Jellyfin plugin catalog under MIT license, with a zero-credential security model.
 - **[xv6 Kernel Extensions](https://github.com/abdurahmankrsk/XV6-modifications)** — added native threading (`clone`, `join`) and user-level mutexes to the MIT xv6 kernel, a process snapshot system for memory-state tracking and page diffing, and custom syscalls for filesystem diagnostics and terminal cursor control.
 - **[Astronomical Observatory Management System](https://github.com/abdurahmankrsk/Astronomical-Observatory-Management-System)** — Java Swing + MySQL/JDBC desktop app; 19-table schema tracking researchers, experiments, celestial objects, sessions, and equipment.
-- **LogistIQ backend** *(private — employer project)* — RBAC, an AI Copilot with parse-once document ingestion, virus-scanned uploads, and reproducible Python builds via pip-tools/uv .
+- **LogistIQ backend** *(private — employer project)* — RBAC, an AI Copilot with parse-once document ingestion, virus-scanned uploads, and reproducible Python builds via pip-tools/uv.
 
 ## 🧰 Stack
 
