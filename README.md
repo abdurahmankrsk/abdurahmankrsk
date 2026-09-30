@@ -52,4 +52,4 @@ I'm a CS student at the School of Computing in Belgrade and Head of IT at Logist
 
 ## 🌱 Also
 
-Security-minded — CTF challenges and self-built vulnerability labs. Contributor to [Millennium Dawn](https://github.com/MillenniumDawn/Millennium-Dawn), a large community-run HOI4 mod (scripted game systems and features across a big existing codebase, international team)
+Security-minded — CTF challenges and self-built vulnerability labs. Contributor to [Millennium Dawn](https://github.com/MillenniumDawn/Millennium-Dawn), a large community-run HOI4 mod (scripted game systems and features across a big existing codebase, international team).
