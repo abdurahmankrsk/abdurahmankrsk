@@ -3,6 +3,7 @@
 
 <p align="center">
 <a href="mailto:abdurahman.karisik@gmail.com"><img src="https://img.shields.io/badge/Email-abdurahman.karisik%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://leetcode.com/u/abdurahmankrsk/"><img src="https://img.shields.io/badge/LeetCode-abdurahmankrsk-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 <img src="https://img.shields.io/badge/Based%20in-Belgrade%2C%20Serbia-4B5563?style=flat" alt="Location"/>
 </p>
 
@@ -10,7 +11,8 @@ I'm a CS student at the School of Computing in Belgrade and Head of IT at Logist
 
 ## 🔭 What I'm building
 
-- **[MailSentinel](https://github.com/abdurahmankrsk/MailSentinel)** — phishing detection web app that scores a raw email or URL from 0–100 and explains every signal that fired, so no verdict is a black box. Java 21 / Spring Boot backend with live SPF & DMARC resolution, punycode- and homoglyph-aware lookalike domain detection, and anchor-text vs. href link analysis; embedded React/Vite UI, Postgres + Flyway, Google ID-token auth verified server-side, and a Manifest V3 extension that scans messages in place in Gmail and Outlook.
+- **[MailSentinel](https://github.com/abdurahmankrsk/MailSentinel)** *(in progress)* — phishing detection web app that scores a raw email or URL from 0–100 and explains every signal that fired, so no verdict is a black box. Java 21 / Spring Boot backend with live SPF & DMARC resolution, punycode- and homoglyph-aware lookalike domain detection, and anchor-text vs. href link analysis; embedded React/Vite UI, Postgres + Flyway, Google ID-token auth verified server-side, and a Manifest V3 extension that scans messages in place in Gmail and Outlook.
+- **[Flashle](https://github.com/abdurahmankrsk/flashle)** *(in progress · [play live](https://flashle-game.vercel.app))* — daily Wordle/LoLdle-style guessing game based on The CW's *The Flash*. Guess the mystery character from a 62-character roster using an attribute comparison engine (species, powers, alignment, debut season, origin Earth, affiliations) with green/yellow/red clues, alias and actor-aware autocomplete, spoiler-free shareable results, and persistent stats. React 19 + TypeScript, Vite, Tailwind CSS v4, Vitest, deployed on Vercel with CI.
 - **[AstroObservatory](https://github.com/abdurahmankrsk/Observatory-Platform)** — full-stack 3D astronomical visualization platform. Next.js/React/Three.js frontend with a GLSL procedural rendering engine for celestial objects, FastAPI backend pulling live NASA data, real-time pipelines, and client-side caching.
 - **[Saturn's Subtitle Tweaks (SST)](https://github.com/abdurahmankrsk/Saturn-s-Subtitle-Tweaks)** — Jellyfin plugin (C#/.NET 9) for in-player subtitle search, multi-language translation, and hash-matched results, with on-the-fly offset/sync. Published to the Jellyfin plugin catalog under MIT license, with a zero-credential security model.
 - **[xv6 Kernel Extensions](https://github.com/abdurahmankrsk/XV6-modifications)** — added native threading (`clone`, `join`) and user-level mutexes to the MIT xv6 kernel, a process snapshot system for memory-state tracking and page diffing, and custom syscalls for filesystem diagnostics and terminal cursor control.
@@ -26,11 +28,14 @@ I'm a CS student at the School of Computing in Belgrade and Head of IT at Logist
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 <p align="left">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js"/>
@@ -49,6 +54,10 @@ I'm a CS student at the School of Computing in Belgrade and Head of IT at Logist
 <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" height="165" alt="Top languages by commit"/>
 <img src="profile-summary-card-output/github_dark/4-productive-time.svg" height="165" alt="Productive time"/>
 </p>
+
+## 🧩 Problem solving
+
+Practicing algorithms and data structures on [LeetCode](https://leetcode.com/u/abdurahmankrsk/).
 
 ## 🌱 Also
 
