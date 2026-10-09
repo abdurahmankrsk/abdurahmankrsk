@@ -2,12 +2,13 @@
 <h3 align="center">Backend & full-stack developer · systems programming</h3>
 
 <p align="center">
+<a href="https://abdurahman-karisik.vercel.app"><img src="https://img.shields.io/badge/Portfolio-abdurahman--karisik.vercel.app-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:abdurahman.karisik@gmail.com"><img src="https://img.shields.io/badge/Email-abdurahman.karisik%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://leetcode.com/u/abdurahmankrsk/"><img src="https://img.shields.io/badge/LeetCode-abdurahmankrsk-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 <img src="https://img.shields.io/badge/Based%20in-Belgrade%2C%20Serbia-4B5563?style=flat" alt="Location"/>
 </p>
 
-I'm a CS student at the School of Computing in Belgrade and Head of IT at LogistIQ, where I lead a team of junior developers and work on the backend of an internal contract & invoice management and margin analysis platform for an international team of supply chain consultants. Open to backend / full-stack roles.
+I'm a CS student at the School of Computing in Belgrade and Head of IT at LogistIQ, where I lead a team of junior developers and work on the backend of an internal contract & invoice management and margin analysis platform for an international team of supply chain consultants. Open to backend / full-stack roles. More of my work is on my [portfolio](https://abdurahman-karisik.vercel.app).
 
 ## 🔭 What I'm building
 
